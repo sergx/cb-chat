@@ -1,0 +1,8 @@
+vendor
+.idea
+.php_cs.cache
+phpunit.xml
+coverage.xml
+test-reports
+composer.lock
+.phpunit.result.cache
